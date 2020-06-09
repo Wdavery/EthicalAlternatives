@@ -16,7 +16,8 @@ Ethical Alternatives
 
 [FOSS Stuff](https://git.samedamci.me/samedamci/FOSS_Stuff/src/branch/master/list.md): ★ — *In this repo you can find some free, open source and privacy applications and services to stop use proprietary spyware.*
 
-##Security Checklist
+Security Checklist
+=
 [SecurityChecklist](https://securitycheckli.st/) — *An open source checklist of resources designed to improve your online privacy and security. Check things off to keep track as you go.*
 
 https://ssd.eff.org/en#index
